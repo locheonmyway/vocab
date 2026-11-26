@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.app/
+*.sqlite*
+*.log
+*.pem
+*.p12
+.env*
+build/
+rollback/
+workspace-state.json
+KnowledgeCatalog.last-good.json

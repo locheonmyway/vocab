@@ -1,0 +1,9 @@
+{
+  "sequence": 1,
+  "version": "1.1.0",
+  "schemaVersion": 1,
+  "minAppVersion": "2.2.0",
+  "sha256": "9249d73c6fc62903355f94cbc1156df426952dbe8576ff7a80c063a5e85e4146",
+  "unitCount": 112,
+  "scenarioCount": 314
+}
